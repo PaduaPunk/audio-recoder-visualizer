@@ -1,6 +1,6 @@
 # Demo
 
-![Alt text](https://github.com/PaduaPunk/Android-Voice-VIsualizer-library/blob/master/ezgif-4-57d0df1ef2.gif)
+![Alt text](https://raw.githubusercontent.com/PaduaPunk/audio-recoder-visualizer/master/ezgif-4-57d0df1ef2.gif)
 
 
 # How to use
